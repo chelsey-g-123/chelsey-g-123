@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chelsey-g-123
+- 👋 Hi, I’m @Chelsey Guttery
 - 👀 I’m interested in being a Data Analyst
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on SQL and Python
