@@ -2,7 +2,7 @@
 - 👀 I’m interested in being a Data Analyst
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on SQL and Python
-- 📫 How to reach me Find me on LinkedIn.
+- 📫 How to reach me: Find me on LinkedIn.
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love attempting to crochet and baking.
 
